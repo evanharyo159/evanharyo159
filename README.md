@@ -16,7 +16,7 @@
 
 ## 📚 Current Research
 
-Using tabular data, GIS, and remote sensing with machine learning and simulation to improve **human resource development and education quality** in Indonesia.
+Using tabular data, GIS, and remote sensing with machine learning, deep learning, GIS, and simulation to improve **human resource development and education quality** in Indonesia.
 
 ---
 

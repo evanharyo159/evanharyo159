@@ -8,9 +8,9 @@
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages & Tools**: Python | SQL | PostgreSQL | Git | QGIS | Excel  
-- **Core Skills**: Data Analysis | Data Engineering | Machine Learning | Agent-Based Simulation   
-- **Platforms**: Jupyter | VS Code | Tableau | NetLogo | Google Earth Engine 
+- **Languages & Tools**: Python | SQL | R | Java | HTML | QGIS | Excel 
+- **Core Skills**: Data Analysis | Data Engineering | Machine Learning | Agent-Based Simulation | Business Intelligence   
+- **Platforms**: Jupyter | VS Code | Tableau | NetLogo | Google Earth Engine | Power BI  
 
 ---
 
